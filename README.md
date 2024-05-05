@@ -1,4 +1,4 @@
-# Online-Market-Place
+# Online-Market-Place-for-Local-Business
 _A Project Based On Python_
 
 **1. Introduction:**
@@ -148,9 +148,8 @@ Make sure you have Python installed on your system. You can download it from [Py
 By following these steps, you should be able to run your code and interact with the SAT Mobile Shopee application.
 
 # Contributors 
-   - Atharva Kote
-   - Sairaj Naikwade
-   - Tushar Nagare
+   - [Sairaj Naikwade](https://github.com/sairajnaikwade)
+   - [Atharva Kote](https://github.com/Atharvkote)
 
 # Conclusion 
 
